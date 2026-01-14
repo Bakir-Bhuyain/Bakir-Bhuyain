@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=6B7280&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Bakir+Bhuyain!;Frontend+Developer;Next.js+%7C+Responsive+Web+Design" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <small style="color:#6B7280">A calm, minimal portfolio focused on clarity, performance and delightful UX.</small>
-</p>
 
 ---
 
