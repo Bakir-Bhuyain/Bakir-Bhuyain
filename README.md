@@ -1,43 +1,105 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=1F9CF0&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Bakir+Bhuiyan!;Frontend+Developer;Next.js+%7C+Responsive+Web+Design+%7C+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=6B7280&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Bakir+Bhuyain!;Frontend+Developer;Next.js+%7C+Responsive+Web+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
+  <small style="color:#6B7280">A calm, minimal portfolio focused on clarity, performance and delightful UX.</small>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
+I’m Bakir — a frontend developer who builds accessible, responsive web interfaces with Next.js and modern front-end tooling. I focus on creating clean experiences that scale across devices and feel thoughtful to use.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOM-FF9800?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakir-Bhuyain&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakir-Bhuyain&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 📫 How to reach me
-
+- Location: Bangladesh
 - Email: hemalbakir@gmail.com
+- Role: Frontend / UI engineer — Next.js, React, HTML, CSS
 
 ---
 
-> “Building seamless, responsive, and modern web experiences with Next.js and a passion for frontend excellence.”
+## Table of contents
+- [What I build](#what-i-build)
+- [Featured projects](#featured-projects)
+- [How I work](#how-i-work)
+- [Skills & tools](#skills--tools)
+- [Writing & notes](#writing--notes)
+- [Contact & availability](#contact--availability)
+
+---
+
+## What I build
+I design and implement user interfaces that emphasize:
+- Performance: fast load times and smooth interactions
+- Accessibility: semantic HTML and keyboard-friendly navigation
+- Responsiveness: layouts that look great on any screen
+- Maintainability: clean components and readable code
+
+---
+
+## Featured projects
+Below are a few highlights. Replace these entries with your real project names/links.
+
+### Project One — Minimal E‑commerce
+A lightweight storefront with server-side rendered product pages, optimized images, and a focus on conversion performance.
+- Tech: Next.js · React · Tailwind CSS
+- Link: (add link)
+
+### Project Two — Design System Starter
+A reusable component library and tokens for consistent UI across products.
+- Tech: React · Storybook · CSS Modules
+- Link: (add link)
+
+### Project Three — Portfolio Template
+A small, accessible portfolio with static rendering, SEO, and a clean CMS integration.
+- Tech: Next.js · Markdown · Vercel
+- Link: (add link)
+
+---
+
+## How I work
+A short description of process and collaboration style:
+1. Discovery: understand goals and constraints.
+2. Prototype: quick interactive mockups and component sketches.
+3. Build: iteratively implement components with attention to performance.
+4. Test & iterate: accessibility checks, cross-browser testing, and user feedback.
+
+Collaboration preferences:
+- Clear issues and small PRs
+- Story-driven commits and meaningful PR descriptions
+- Automated testing and CI for releases
+
+---
+
+## Skills & tools
+A compact, muted palette list of core skills.
+
+- Frontend: Next.js · React · HTML · CSS · JavaScript
+- Styling: Tailwind CSS · CSS Modules · Styled Components
+- Tooling: Vite · Webpack · ESLint · Prettier · Husky
+- Testing: Jest · React Testing Library
+- Platforms: Vercel · GitHub · Netlify
+
+---
+
+## Writing & notes
+Occasionally I write about frontend patterns, performance, and accessibility. Add links to your blog posts or notes here.
+
+- (Add link) Improving Lighthouse scores on medium-sized apps
+- (Add link) Accessible forms: patterns that work in practice
+
+---
+
+## Contact & availability
+I’m currently open to freelance and part-time work.
+- Email: hemalbakir@gmail.com
+- Twitter / X: (add handle)
+- LinkedIn: (add link)
+
+If you’d like to collaborate, please reach out with a short description of the project and timeline.
+
+---
+
+<footer align="center">
+  <small style="color:#9CA3AF">© Bakir Bhuyain • Built with a focus on clarity, performance, and a cozy minimal aesthetic.</small>
+</footer>
 
